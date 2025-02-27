@@ -1,0 +1,20 @@
+.main-kurs {
+   background-color: #66fcf1;
+    text-align: center;
+    
+
+}
+
+.main-kurs h1 {
+    margin-bottom: 14px;
+    color: #fff;
+    font-size: 24px;
+}
+
+.main-kurs img {
+    transition: all .4s ease;
+}
+
+.main-kurs img:hover {
+    transform: scale(1.03);
+}

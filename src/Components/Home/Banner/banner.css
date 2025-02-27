@@ -1,0 +1,36 @@
+.banner{
+    background-color: #66fcf1;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    height: 395px;
+}
+
+.banner-one h1{
+    position: relative;
+    top: -350px;
+    left: 20px;
+    color: #fff;
+    font-size: 32px;
+}
+.banner-one img {
+    width: 100%;
+    
+}
+
+.banner-one h2{
+    position: relative;
+    top: -330px;
+    left: 15px;
+    color: #fff;
+    font-size: 32px;
+    display: flex;
+    text-align: center;
+
+}
+
+
+
